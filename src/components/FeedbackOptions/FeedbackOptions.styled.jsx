@@ -16,6 +16,7 @@ export const Button = styled.button`
   font-size: 18px;
   text-transform: capitalize;
   font-weight: bold;
+  cursor: pointer;
 
   :hover {
     background-color: lightgray;
